@@ -1,0 +1,85 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Mary Kate Viggiano Resume</title>
+<meta charset="utf-8" />
+<link href='http://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
+<style>
+body {
+	font-family: 'Lato', sans-serif;
+	text-align: center;
+}
+.textbox {
+	width: 90%;
+	padding:1em;
+	margin: 2em;
+	border:1px solid;
+	background-color:white;
+	border-radius: 1em;
+}
+h1 {
+	background-color: lightblue;
+	color: purple;
+}
+h2 {
+	color: purple;
+}
+
+</style>
+<h1> Mary Kate Viggiano</h1>
+
+<div id="info" class="textbox">
+<h3> 1130 Garfield Avenue -- Havertown, PA 19083 -- 267.226.4089 -- MK.Viggiano@gmail.com</h3>
+</div>
+
+<div id="education" class="textbox">
+<h2> Education </h2>
+<p> <strong> Communications Major</strong> Saint Joseph's University, Philadelphia, Pennsylvania</p>
+<p> <strong> Anticipated Graduation:</strong> May, 2016 </p>
+<p> <strong> Country Day School of the Sacred Heart</strong>, Bryn Mawr, Pennsylvania</p>
+<p>Class of 2012</p>
+</div>
+
+<div id="work" class="textbox">
+<h2> Work Experience </h2>
+<strong> Serengetee</strong> - Campus Rep Spring 2014
+<ul>
+<li> Spread the T-shirt brand and mission of social justice across campus, and to family, friends, and strangers</li>
+<li> Utilize a range of social media to successfully promote the brand and generate conversation</li>
+</ul>
+<p> <strong> Ritas Water Ice</strong>- Employee - Drexel Hill, PA - April 2009- Present</p>
+<ul><li> Serve as a team member as a cashier, successfully running the register and processing payments</li>
+<li> Attend to customers, answer inquiries, and make products </li>
+<li> Assist in store organization</li>
+</ul>
+<p><strong> In-home Care</strong>- October 2008- Present</p>
+<ul><li> Babysit consistantly four children ranging in age from 5-months-old to 15-years-old</li>
+<li> Aquire/ demonstrate the ability to handle multiple activities at once </li>
+<li> Aquire/ demonstrate leadership abilities</li>
+<p><strong>Comcast Headquarters</strong>- Philadelphia, PA - May 2012</p>
+<ul><li> Completed two weeks learning the internal workings of the Corporate Human Resources Department</li>
+<li> Attended and participated in colaboration meetings in order to create helpful resources for employees</li>
+<li> Contributed to a blog for the <i>TeamComcast</i> employee website</li>
+<li> Wrote the monthly Shared Services employee newsletter, <i>HRSuccess</i>, for the month of June</li>
+</ul>
+</div>
+
+<div id="activities" class="textbox">
+<h2> Activities and Community Service</h2>
+<ul>
+<li>Art and Design Club</li>
+<li>Residence Hall Council</li>
+<li>Magis (weekly community service)</li>
+<li>JDRF Walk to Cure Diabetes</li>
+<li>Comcast Cares Day</li>
+<li>Leukemia and Lymphoma Society</li>
+</ul>
+</div>
+
+<h3> References Available upon Request</h3>
+
+
+</head>
+<body>
+</body>
+</html>
